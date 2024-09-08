@@ -1,4 +1,4 @@
-# Aanlyzing-Amazon-Sales-Data
+# Analyzing-Amazon-Sales-Data
 
 
 ## Dashboard
