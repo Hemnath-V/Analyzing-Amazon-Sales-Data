@@ -56,6 +56,7 @@ The analysis provides valuable insights into Amazon's sales performance, includi
 
 ## Screenshots
 <center>
+ 
   ![Screenshot 2024-09-06 091048](https://github.com/user-attachments/assets/7d2a2023-17eb-44f4-821a-d5dec16f9c8a)
 
   ![Screenshot 2024-09-06 095204](https://github.com/user-attachments/assets/780d00ff-b2d1-41ab-a0f3-470fa8e865c5)
