@@ -3,7 +3,7 @@
 
 ## Dashboard
 
-Explore the interactive dashboard [here](https://app.powerbi.com/groups/me/reports/a162d78b-d46f-4c6a-aeb2-e5f59a4b7d2d/24d89df0d8010a9deaa9?experience=power-bi).
+Explore the interactive dashboard [here](https://app.powerbi.com/groups/me/reports/e014a2fa-c074-4c1e-86c2-af38060ea2d4/24d89df0d8010a9deaa9?experience=power-bi).
 
 ## Project Overview
 Sales management is crucial for staying competitive and improving distribution methods to reduce costs and increase profits. This project involves analyzing Amazon sales data using ETL (Extract, Transform, Load) processes to uncover trends and key metrics. The analysis focuses on monthly, yearly, and yearly-monthly sales trends to provide insights into sales performance.
